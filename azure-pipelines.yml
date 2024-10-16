@@ -1,5 +1,5 @@
 pool:
-  name: vfdevopsworkshop-mvdz
+  name: 'vfdevopsworkshop-mvdz'
 trigger:
   - master
 steps:

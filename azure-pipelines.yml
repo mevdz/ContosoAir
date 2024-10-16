@@ -1,7 +1,8 @@
-pool:
-  name: vfdevopsworkshop-mvdz
+
 trigger:
   - master
+pool:
+  name: vfdevopsworkshop-mvdz
 steps:
   - task: CopyFiles@2
     displayName: 'Copy Files to:

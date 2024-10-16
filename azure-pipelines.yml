@@ -1,5 +1,5 @@
 pool:
-  name: vfdevopsworkshop-mvdz
+  name: 'mdop-thomas-01'
 trigger:
   - master
 steps:

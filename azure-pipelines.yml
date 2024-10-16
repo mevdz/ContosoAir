@@ -2,7 +2,7 @@
 trigger:
   - master
 pool:
-name: vfdevopsworkshop-mvdz
+name: poolmcsmanuelc
 steps:
   - task: CopyFiles@2
     displayName: 'Copy Files to:

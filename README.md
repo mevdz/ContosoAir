@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/vfdevopsworkshop/PatrsUnlimited_MvdZ/_apis/build/status%2Fmevdz.ContosoAir?branchName=master)](https://dev.azure.com/vfdevopsworkshop/PatrsUnlimited_MvdZ/_build/latest?definitionId=41&branchName=master)
 
 # Microsoft.Github CI Demo
 

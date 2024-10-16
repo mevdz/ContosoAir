@@ -1,9 +1,9 @@
 
 trigger:
   - master
-pool:
-  name: vfdevopsworkshop-mvdz
 steps:
+  pool:
+  name: vfdevopsworkshop-mvdz
   - task: CopyFiles@2
     displayName: 'Copy Files to:
 $(build.artifactstagingdirectory)/Templates'

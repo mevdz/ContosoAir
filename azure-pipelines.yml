@@ -1,5 +1,5 @@
 pool:
-  name: poolmcsmanuelc
+  name: vfdevopsworkshop-mvdz
 trigger:
   - master
 steps:

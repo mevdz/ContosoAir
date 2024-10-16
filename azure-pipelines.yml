@@ -1,8 +1,8 @@
-
-trigger:
-  - master
 pool:
 name: poolmcsmanuelc
+trigger:
+  - master
+
 steps:
   - task: CopyFiles@2
     displayName: 'Copy Files to:

@@ -1,5 +1,5 @@
 pool:
-name: poolmcsmanuelc
+  name: poolmcsmanuelc
 trigger:
   - master
 steps:
